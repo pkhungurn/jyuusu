@@ -6,7 +6,7 @@ authors = ["Pramook Khungurn <pramook@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [
-    { include = "jyuusu", from = "src" }
+    { include = "jyuusu", from = "src" },
 ]
 
 [tool.poetry.dependencies]

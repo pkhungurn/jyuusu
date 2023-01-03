@@ -12,19 +12,19 @@ The library should work with Python 3.8 or later.
 
 ## Installation
 
+You can just simply copy the `src/jyuusu` directory into your code base, or you can use the following tools.
+
 ### Pip
 
 ```
-pip install git+http://github.com/pkhungurn/jyuusu.git
+pip install git+https://github.com/pkhungurn/jyuusu.git
 ```
 
 ### Poetry
 
 ```
-poetry add git+http://github.com/pkhungurn/jyuusu.git
+poetry add git+https://github.com/pkhungurn/jyuusu.git
 ```
-
-Or you can just simply copy the `src/jyuusu` directory into your code base.
 
 ## How to Use
 
