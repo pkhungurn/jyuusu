@@ -1,6 +1,10 @@
 # jyuusu
 
-`jyuusu` （ジュース） is a dependency injection system implemented in Python. Its design and interface are heavily inspired by Google's [Guice](https://github.com/google/guice) and [Dagger 2](https://dagger.dev/).
+`jyuusu` （ジュース） is a dependency injection system implemented in Python. Its design and interface are heavily 
+inspired by Google's [Guice](https://github.com/google/guice) and [Dagger 2](https://dagger.dev/).
+
+While the library's name is `jyuusu`, the PYPI package name is `pmkg-jyuusu` to avoid collisions. However, I don't
+think I will upload the package to PYPI in the near future.
 
 ## Requirement
 
@@ -11,13 +15,13 @@ The library should work with Python 3.8 or later.
 ### Pip
 
 ```
-pip install git+http://github.com/pkhungurn/jyuusu
+pip install git+http://github.com/pkhungurn/jyuusu.git
 ```
 
 ### Poetry
 
 ```
-poetry add git+http://github.com/pkhungurn/jyuusu
+poetry add git+http://github.com/pkhungurn/jyuusu.git
 ```
 
 Or you can just simply copy the `src/jyuusu` directory into your code base.
