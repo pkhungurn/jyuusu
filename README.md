@@ -8,7 +8,19 @@ The library should work with Python 3.8 or later.
 
 ## Installation
 
-There's no automatic installation system. Just copy the `src/jyuusu` directory into your code base.
+### Pip
+
+```
+pip install git+http://github.com/pkhungurn/jyuusu
+```
+
+### Poetry
+
+```
+poetry add git+http://github.com/pkhungurn/jyuusu
+```
+
+Or you can just simply copy the `src/jyuusu` directory into your code base.
 
 ## How to Use
 
