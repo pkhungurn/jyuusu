@@ -12,7 +12,7 @@ There's no automatic installation system. Just copy the `src/jyuusu` directory i
 
 ## How to Use
 
-Take a look at the [unit tests](src/jyuusu/binder_test.py) to get glimpse on how the library is supposed to be used. 
+Take a look at the [unit tests](src/jyuusu/binder_test.py) to get a glimpse on how the library is supposed to be used. 
 
 Well, here's a test method.
 
