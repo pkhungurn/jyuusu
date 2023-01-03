@@ -45,4 +45,4 @@ def test_01(self):
 
 ## Update History
 
-* [2022/01/03] First release.
+* [2022/01/03] First release (v0.1.0).

@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "jyuusu"
+name = "pmkg-jyuusu"
 version = "0.1.0"
 description = "A dependency injection framework for Python inspired by Google's Guice and Dagger 2"
 authors = ["Pramook Khungurn <pramook@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [
-    {include = "jyuusu", from = "src"}
+    { include = "jyuusu", from = "src" }
 ]
 
 [tool.poetry.dependencies]
